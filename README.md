@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/viaje-sin-boleto-de-regreso/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Viaje sin boleto de regreso](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/viaje-sin-boleto-de-regreso/) |
+| **Get License** | [Music Rights & Licensing for Viaje sin boleto de regreso](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/viaje-sin-boleto-de-regreso/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Una mirada tuya y ya perdí la razón
+> Esta noche somos tú, la luna y mi habitación
+> No hay boleto de regreso, baby, just you and me
+> Dime al oído lo que siempre quieres sentir
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
